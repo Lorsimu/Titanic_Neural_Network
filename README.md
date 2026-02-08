@@ -3,7 +3,7 @@
 ## Descripción
 Este proyecto aborda la clásica competición de Kaggle sobre el Titanic utilizando un enfoque de **Deep Learning** con TensorFlow/Keras. Este análisis se centra en la inspección detallada del dataframe de entrenamiento (en especial para los ´features´ de Tickets y Cabinas) para alimentar una Red Neuronal Densa.
 
-## 🛠️ Tecnologías Utilizadas
+## >> Tecnologías Utilizadas
 - **Python 3**
 - **TensorFlow / Keras:** Construcción del modelo de red neuronal.
 - **Scikit-Learn:** Preprocesamiento (OneHotEncoder, SimpleImputer) y Pipelines.
@@ -39,4 +39,5 @@ Este proyecto sirve como introducción al mundo de data science y machine learni
 **Lorenzo Ji** - *Proyecto personal con recursos proporcionado por Kaggle*
 * Perfil de GitHub: https://github.com/Lorsimu
 * Correo académico: lorenzo.ji@estudiante.uam.es
+
 
